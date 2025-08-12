@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "If you could have any magical weapon, which would you choose?",
+      "answers": [
+        {"text": "Enchanted microphone", "character": "Rion"},
+        {"text": "Shadow-blade guitar", "character": "Jax"},
+        {"text": "Spirit drumsticks", "character": "Kai"},
+        {"text": "Phoenix bow", "character": "Luna"}
+      ]
+    },
+    {
+      "question": "What’s your go-to pre-show ritual?",
+      "answers": [
+        {"text": "Meditation in silence", "character": "Kai"},
+        {"text": "Hype dance warm-up", "character": "Jax"},
+        {"text": "Tuning instruments perfectly", "character": "Rion"},
+        {"text": "Writing in my spell diary", "character": "Luna"}
+      ]
+    },
+    {
+      "question": "How do you react in a crisis?",
+      "answers": [
+        {"text": "Take charge and lead", "character": "Rion"},
+        {"text": "Protect my friends at all costs", "character": "Kai"},
+        {"text": "Distract with humor and charm", "character": "Jax"},
+        {"text": "Think of a clever plan", "character": "Luna"}
+      ]
+    }
+  ],
+  "results": {
+    "Rion": {
+      "description": "You’re the leader — brave, dependable, and a little stubborn. You always shine brightest under pressure.",
+      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/kpopdemonhunters@main/rion.png"
+    },
+    "Jax": {
+      "description": "You’re the heart of the group, full of charm, energy, and wild ideas. You keep everyone laughing.",
+      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/kpopdemonhunters@main/jax.png"
+    },
+    "Kai": {
+      "description": "You’re calm, protective, and quietly powerful. You never let your guard down when it matters.",
+      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/kpopdemonhunters@main/kai.png"
+    },
+    "Luna": {
+      "description": "You’re creative, mysterious, and always two steps ahead. Your mind is your greatest weapon.",
+      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/kpopdemonhunters@main/luna.png"
+    }
+  }
+}
