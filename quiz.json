@@ -1,49 +1,86 @@
 {
   "questions": [
     {
-      "question": "If you could have any magical weapon, which would you choose?",
+      "question": "On stage, your role is…",
       "answers": [
-        {"text": "Enchanted microphone", "character": "Rion"},
-        {"text": "Shadow-blade guitar", "character": "Jax"},
-        {"text": "Spirit drumsticks", "character": "Kai"},
-        {"text": "Phoenix bow", "character": "Luna"}
+        {"text": "Lead the melody and the moment", "character": "Rumi"},
+        {"text": "Hold the harmony and keep everyone steady", "character": "Mira"},
+        {"text": "Hype the crowd and improvise", "character": "Zoey"},
+        {"text": "Coach from the wings and protect the team", "character": "Celine"},
+        {"text": "Steal the spotlight with a dangerous charm", "character": "Saja Boys"}
       ]
     },
     {
-      "question": "What’s your go-to pre-show ritual?",
+      "question": "Your power vibe:",
       "answers": [
-        {"text": "Meditation in silence", "character": "Kai"},
-        {"text": "Hype dance warm-up", "character": "Jax"},
-        {"text": "Tuning instruments perfectly", "character": "Rion"},
-        {"text": "Writing in my spell diary", "character": "Luna"}
+        {"text": "Raw heart + unstoppable voice", "character": "Rumi"},
+        {"text": "Calm focus + precise timing", "character": "Mira"},
+        {"text": "Wild creativity + jokes under pressure", "character": "Zoey"},
+        {"text": "Wisdom, planning, and shields", "character": "Celine"},
+        {"text": "Allure, mischief, and temptation", "character": "Saja Boys"}
       ]
     },
     {
-      "question": "How do you react in a crisis?",
+      "question": "Before a big battle (or show), you…",
       "answers": [
-        {"text": "Take charge and lead", "character": "Rion"},
-        {"text": "Protect my friends at all costs", "character": "Kai"},
-        {"text": "Distract with humor and charm", "character": "Jax"},
-        {"text": "Think of a clever plan", "character": "Luna"}
+        {"text": "Face your fears head‑on", "character": "Rumi"},
+        {"text": "Map the plan and roles", "character": "Mira"},
+        {"text": "Freestyle to loosen up", "character": "Zoey"},
+        {"text": "Mentor the team quietly", "character": "Celine"},
+        {"text": "Work the crowd to your advantage", "character": "Saja Boys"}
+      ]
+    },
+    {
+      "question": "Pick a signature artifact:",
+      "answers": [
+        {"text": "Enchanted mic that channels courage", "character": "Rumi"},
+        {"text": "Twin charms tuned to perfect pitch", "character": "Mira"},
+        {"text": "Boom box that unleashes chaos beats", "character": "Zoey"},
+        {"text": "Talisman that fortifies barriers", "character": "Celine"},
+        {"text": "Cursed earring that whispers power", "character": "Saja Boys"}
+      ]
+    },
+    {
+      "question": "Biggest challenge?",
+      "answers": [
+        {"text": "Owning all parts of yourself", "character": "Rumi"},
+        {"text": "Carrying responsibility", "character": "Mira"},
+        {"text": "Staying focused (not just fun)", "character": "Zoey"},
+        {"text": "Letting them fight without you", "character": "Celine"},
+        {"text": "Choosing fame over souls", "character": "Saja Boys"}
+      ]
+    },
+    {
+      "question": "Your ideal victory moment:",
+      "answers": [
+        {"text": "A note that breaks the darkness", "character": "Rumi"},
+        {"text": "A plan executed perfectly", "character": "Mira"},
+        {"text": "A comeback nobody expected", "character": "Zoey"},
+        {"text": "The team safe and stronger", "character": "Celine"},
+        {"text": "The crowd chanting your name", "character": "Saja Boys"}
       ]
     }
   ],
   "results": {
-    "Rion": {
-      "description": "You’re the leader — brave, dependable, and a little stubborn. You always shine brightest under pressure.",
-      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/kpopdemonhunters@main/rion.png"
+    "Rumi": {
+      "description": "Leader energy with a vulnerable core. You shine brightest when you accept every part of yourself.",
+      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/rumi.png"
     },
-    "Jax": {
-      "description": "You’re the heart of the group, full of charm, energy, and wild ideas. You keep everyone laughing.",
-      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/kpopdemonhunters@main/jax.png"
+    "Mira": {
+      "description": "Steady, strategic, and protective. You keep the rhythm of the team and never miss a beat.",
+      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/mira.png"
     },
-    "Kai": {
-      "description": "You’re calm, protective, and quietly powerful. You never let your guard down when it matters.",
-      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/kpopdemonhunters@main/kai.png"
+    "Zoey": {
+      "description": "Creative spark and comic relief under pressure. You turn chaos into a show‑stopping win.",
+      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/zoey.png"
     },
-    "Luna": {
-      "description": "You’re creative, mysterious, and always two steps ahead. Your mind is your greatest weapon.",
-      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/kpopdemonhunters@main/luna.png"
+    "Celine": {
+      "description": "Mentor soul with powerful safeguards. You guide others to reach their best selves.",
+      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/celine.png"
+    },
+    "Saja Boys": {
+      "description": "Magnetic, theatrical, and a little dangerous. You’re great at turning attention into power—use it wisely.",
+      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/sajaboys.png"
     }
   }
 }
