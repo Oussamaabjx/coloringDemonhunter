@@ -1,86 +1,56 @@
 {
   "questions": [
     {
-      "question": "On stage, your role is…",
+      "question": "Which weapon would you choose in battle?",
       "answers": [
-        {"text": "Lead the melody and the moment", "character": "Rumi"},
-        {"text": "Hold the harmony and keep everyone steady", "character": "Mira"},
-        {"text": "Hype the crowd and improvise", "character": "Zoey"},
-        {"text": "Coach from the wings and protect the team", "character": "Celine"},
-        {"text": "Steal the spotlight with a dangerous charm", "character": "Saja Boys"}
+        { "text": "Twin Blades for speed and agility", "character": "zoey" },
+        { "text": "Mystic Bow with enchanted arrows", "character": "mira" },
+        { "text": "Sonic Whip to control the battlefield", "character": "celine" },
+        { "text": "Shadow Daggers for stealth", "character": "rumi" },
+        { "text": "Dual Katana, signature of the boys", "character": "sajaboys" }
       ]
     },
     {
-      "question": "Your power vibe:",
+      "question": "What's your fighting style?",
       "answers": [
-        {"text": "Raw heart + unstoppable voice", "character": "Rumi"},
-        {"text": "Calm focus + precise timing", "character": "Mira"},
-        {"text": "Wild creativity + jokes under pressure", "character": "Zoey"},
-        {"text": "Wisdom, planning, and shields", "character": "Celine"},
-        {"text": "Allure, mischief, and temptation", "character": "Saja Boys"}
+        { "text": "Swift and precise strikes", "character": "zoey" },
+        { "text": "Long-range and calculated", "character": "mira" },
+        { "text": "Crowd control and strategy", "character": "celine" },
+        { "text": "Silent and deadly", "character": "rumi" },
+        { "text": "Aggressive and fearless", "character": "sajaboys" }
       ]
     },
     {
-      "question": "Before a big battle (or show), you…",
+      "question": "Which role fits you in a team?",
       "answers": [
-        {"text": "Face your fears head‑on", "character": "Rumi"},
-        {"text": "Map the plan and roles", "character": "Mira"},
-        {"text": "Freestyle to loosen up", "character": "Zoey"},
-        {"text": "Mentor the team quietly", "character": "Celine"},
-        {"text": "Work the crowd to your advantage", "character": "Saja Boys"}
-      ]
-    },
-    {
-      "question": "Pick a signature artifact:",
-      "answers": [
-        {"text": "Enchanted mic that channels courage", "character": "Rumi"},
-        {"text": "Twin charms tuned to perfect pitch", "character": "Mira"},
-        {"text": "Boom box that unleashes chaos beats", "character": "Zoey"},
-        {"text": "Talisman that fortifies barriers", "character": "Celine"},
-        {"text": "Cursed earring that whispers power", "character": "Saja Boys"}
-      ]
-    },
-    {
-      "question": "Biggest challenge?",
-      "answers": [
-        {"text": "Owning all parts of yourself", "character": "Rumi"},
-        {"text": "Carrying responsibility", "character": "Mira"},
-        {"text": "Staying focused (not just fun)", "character": "Zoey"},
-        {"text": "Letting them fight without you", "character": "Celine"},
-        {"text": "Choosing fame over souls", "character": "Saja Boys"}
-      ]
-    },
-    {
-      "question": "Your ideal victory moment:",
-      "answers": [
-        {"text": "A note that breaks the darkness", "character": "Rumi"},
-        {"text": "A plan executed perfectly", "character": "Mira"},
-        {"text": "A comeback nobody expected", "character": "Zoey"},
-        {"text": "The team safe and stronger", "character": "Celine"},
-        {"text": "The crowd chanting your name", "character": "Saja Boys"}
+        { "text": "Frontline leader", "character": "zoey" },
+        { "text": "Support and precision", "character": "mira" },
+        { "text": "Tactical planner", "character": "celine" },
+        { "text": "Covert operations", "character": "rumi" },
+        { "text": "Raw power backup", "character": "sajaboys" }
       ]
     }
   ],
   "results": {
-    "Rumi": {
-      "description": "Leader energy with a vulnerable core. You shine brightest when you accept every part of yourself.",
-      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/rumi.png"
+    "zoey": {
+      "description": "You are Zoey — fast, bold, and unafraid to lead the charge.",
+      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/zoey.png"
     },
-    "Mira": {
-      "description": "Steady, strategic, and protective. You keep the rhythm of the team and never miss a beat.",
-      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/mira.png"
+    "mira": {
+      "description": "You are Mira — calm, precise, and always hitting your target.",
+      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/mira.png"
     },
-    "Zoey": {
-      "description": "Creative spark and comic relief under pressure. You turn chaos into a show‑stopping win.",
-      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/zoey.png"
+    "celine": {
+      "description": "You are Celine — strategic and always two steps ahead.",
+      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/celine.png"
     },
-    "Celine": {
-      "description": "Mentor soul with powerful safeguards. You guide others to reach their best selves.",
-      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/celine.png"
+    "rumi": {
+      "description": "You are Rumi — silent but deadly, master of stealth.",
+      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/rumi.png"
     },
-    "Saja Boys": {
-      "description": "Magnetic, theatrical, and a little dangerous. You’re great at turning attention into power—use it wisely.",
-      "image": "https://raw.githubusercontent.com/Oussamaabjx/kpopdemonhunters/main/images/sajaboys.png"
+    "sajaboys": {
+      "description": "You are one of the Saja Boys — powerful, aggressive, and unstoppable.",
+      "image": "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/sajaboys.png"
     }
   }
 }
