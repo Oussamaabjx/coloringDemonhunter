@@ -1,0 +1,9 @@
+{
+  "mode": 0,
+
+  "wallpapers0": "https://cdn.jsdelivr.net/gh/Oussamaabjx/wallpapers@main/wallpapers.json",
+  "coloring0":   "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/coloring.json",
+
+  "wallpapers1": "https://cdn.jsdelivr.net/gh/Oussamaabjx/wallpapers@main/wallpapers_alt.json",
+  "coloring1":   "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/coloring_alt.json"
+}
