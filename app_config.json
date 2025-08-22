@@ -3,7 +3,9 @@
 
   "wallpapers0": "https://cdn.jsdelivr.net/gh/Oussamaabjx/wallpapers@main/wallpapers.json",
   "coloring0":   "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/coloring.json",
+  "videos0": "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/videos.json",
 
   "wallpapers1": "https://cdn.jsdelivr.net/gh/Oussamaabjx/wallpapers@main/wallpapers_alt.json",
-  "coloring1":   "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/coloring_alt.json"
+  "coloring1":   "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/coloring_alt.json",
+  "videos1": "https://cdn.jsdelivr.net/gh/Oussamaabjx/coloringDemonhunter@main/videos.json"
 }
